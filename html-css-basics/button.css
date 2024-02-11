@@ -1,0 +1,45 @@
+.subscribe-button{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    height:40px;
+    width: 105px;
+    border: none;
+    cursor: pointer;
+    margin: 8px;
+}
+.subscribe-button:hover{
+    opacity:0.3;
+   
+}
+.login-button:hover{
+background-color:blue;
+color:white;
+}
+.login-button{
+    background-color: white;
+    color:blue;
+    border-style: solid;
+    border-color:blue;
+    border-width: 1px;
+    margin:8px;
+    width: 106px;
+    height: 35px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.twitter-button{
+
+     background-color: rgb(3, 176, 244);
+     color: white;
+     border-style: solid;
+     border-color:  rgb(3, 176, 244);
+     border-radius: 15px;
+     margin:8px;
+     width: 96px;
+    height: 30px;
+    font-weight: none;
+    font-size: 20px;
+    cursor: pointer;
+
+}
